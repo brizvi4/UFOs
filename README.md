@@ -12,7 +12,7 @@ When users first open the webpage, they will see an unfiltered table. Besides th
 
 Users will enter date, city, state, country, and shape of the UFO and the table will be filtered to show the information they have entered. This easy to use table will be very helpful for users to search for UFOs.
 
-Summary
+## Summary
 
 - One drawback of the search field is that it is "case-sensitive". Some users might face trouble in retrieving data if they do not enter the data exactly how it is stored. 
 - Maybe a filter named "Lates Sighitng" can be added so that users know of recent UFOs sightings.
