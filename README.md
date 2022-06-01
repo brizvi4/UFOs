@@ -15,5 +15,5 @@ Users will enter date, city, state, country, and shape of the UFO and the table 
 ## Summary
 
 - One drawback of the search field is that it is "case-sensitive". Some users might face trouble in retrieving data if they do not enter the data exactly how it is stored. 
-- Maybe a filter named "Lates Sighitng" can be added so that users know of recent UFOs sightings.
+- Maybe a filter named "Latest Sighitng"s can be added so that users know of recent UFOs sightings.
 - Another way to make this better is to make further customization on the filters. For instance, if drop down menus are used on filters, it will be easier for users as this will make it more interactive. 
